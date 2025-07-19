@@ -57,7 +57,7 @@ Edit `appsettings.json` with your MySQL connection string:
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "server=localhost;database=EmpDB;user=mwaseem;password=Riyadh@123"
+    "DefaultConnection": "server=localhost;database=EmpDB;user=mwaseem;password=xxxxx"
   }
 }
 ```
